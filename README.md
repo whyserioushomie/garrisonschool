@@ -262,4 +262,12 @@ document.getElementById("loginForm").addEventListener("submit", function(event) 
 .hero p {
     font-size: 1.5rem;
 }
+/* Global Styles */
+body {
+    background-color: #4CAF50; /* Green background */
+    color: white;  /* Change text color to white for better contrast */
+    line-height: 1.6;
+    font-family: 'Arial', sans-serif;
+}
+
 
